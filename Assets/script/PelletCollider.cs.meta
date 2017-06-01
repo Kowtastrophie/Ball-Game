@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f7f19067cf519f1488d05be94b823b02
+timeCreated: 1491840795
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Pellet: {fileID: 54896049470930490, guid: 442f2c6a7329de5499f4ca2f45f6ba9d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
